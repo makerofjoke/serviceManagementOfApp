@@ -1,9 +1,12 @@
 # 服务组的开发文档
-## documents
+# documents
+
 包含了服务组模块的设计文档
-## log
+#  log
 
 服务组开发日程记录
+
+# Guide
 
 ## download
 
@@ -23,7 +26,7 @@
 
 1.具体参考https://www.jianshu.com/p/840ea273f25a
 
-# push update
+## push update
 
 1.添加本地修改
 
